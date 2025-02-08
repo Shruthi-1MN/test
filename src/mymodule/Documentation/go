@@ -1,0 +1,3 @@
+Interfaces enable abstraction and polymorphism
+Structs implement interfaces and can have extra methods
+polymorphism let us use different struct implementations interchangeably 
